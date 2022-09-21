@@ -15,7 +15,7 @@ class _CallsState extends State<Calls> {
 List<CallList> call_data =[
   CallList(
       avatar: "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg",
-  name: 'Jagan',
+  name: 'Jaganp',
   callTime: '10:30 AM',
   callType: 'Audio',
   icon: 'Incoming',

@@ -18,7 +18,7 @@ class _chatDetailState extends State<chatDetail> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-
+// profile page
         backgroundColor: Colors.teal,
         titleSpacing: 0,
         leadingWidth: 80,
@@ -31,7 +31,7 @@ class _chatDetailState extends State<chatDetail> {
             //IconButton(onPressed: ()=>Navigator.pop(context), icon: Icon(Icons.arrow_back)),
            const CircleAvatar(
               radius: 20,
-              child: Text('J'),
+              child: Text('Jjfvvhnf'),
               
             ),
           ],
@@ -68,7 +68,7 @@ class _chatDetailState extends State<chatDetail> {
         
       ),
       body: Container(
-        width: MediaQuery.of(context).size.width,
+        width: 45,
         height: MediaQuery.of(context).size.height,
         child: Stack(
           
